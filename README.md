@@ -15,7 +15,7 @@ Using Tensorflow, I developed three Deep Learning models that increase image res
 3\. Web App development\
 Using Visual Studio Code and Streamlit, I created a user-friendly Web App for PixelPro. Users can upload low resolution images and generate high resolution versions with scaling factors of x2, x4, x8, or all. The Picture Gallery feature allows users to compare the original and generated images side by side, and download the enhanced images.
 
-PixelPro simplifies the process of generating high resolution images from low resolution sources, providing users with an accessible tool to enhance their visual content.
+PixelPro simplifies the process of generating high resolution images from low resolution sources, providing users with an accessible tool to enhance their visual content. 
 
 ## Examples:
 
